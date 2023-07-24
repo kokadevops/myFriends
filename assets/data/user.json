@@ -1,0 +1,20 @@
+{
+    "id": "u1",
+    "image": "https://png2.cleanpng.com/sh/a09f2bb854a43320f931ff24b346a17b/L0KzQoS3V8E4N5xshJH9cnHxg8HokvVvfF51eeR8bHX8PYe7gsRjbmFrT9RrMEK6PoO9UMMyPGM9SagDOUW5RoqCUcUxPmcziNDw/transparent-parsley-64b4bf0f7bb027.2603142816895669915066.png",
+    "name": "KokaDevops",
+    "posts": [
+        {
+            "id": "p1",
+            "createdAt": "4 m",
+            "User": {
+                "id": "u1",
+                "image": "https://png2.cleanpng.com/sh/9ed78f3124ff7c94e3dad5c7ce8f0eb9/L0KzQoS3V8E4N6t4f5H9cnHxg8HokvVvfF5ngeR9aHTkiX73ggJ1gV5teeY2NkTlRLTohcgxampoe6U3NEe1RIqCUcYyPmkATak5MEK3QIWAVr5xdpg=/transparent-birthday-party-hat-64b4cae80b9cc3.4724991616895700240476.png",
+                "name": "KokaDevops"
+            },
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+            "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/images/1.jpg",
+            "numberOfLikes": 11,
+            "numberOfShares": 2
+        }
+    ]
+}
