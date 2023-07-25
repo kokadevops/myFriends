@@ -79,37 +79,6 @@ const CreatePostScreen = () => {
                 <Button title="Post" onPress={onSubmit} />
             </View>
         </KeyboardAvoidingView>
-
-        // <KeyboardAvoidingView
-        //     behavior={Platform.OS === "ios" ? "padding" : "height"}
-        //     style={[styles.container, { marginBottom: insets.bottom }]}
-        //     contentContainerStyle={{ flex: 1 }}
-        //     keyboardVerticalOffset={15}
-        // >
-        //     <Text>Create Post Screen</Text>
-        //     <View style={styles.header}>
-        //         <Image source={profileImg} style={styles.profileImage} />
-        //         <Text style={styles.name}>{user.name}</Text>
-        //         <Entypo
-        //             onPress={pickImage}
-        //             name="images"
-        //             size={24}
-        //             color="limegreen"
-        //             style={styles.icon}
-        //         />
-        //     </View>
-        //     <TextInput
-        //         placeholder="What's on your mind?"
-        //         value={description}
-        //         onChangeText={setDescription}
-        //         style={styles.input}
-        //         multiline
-        //     />
-        //     <Image source={{ uri: image }} style={styles.image} />
-        //     <View style={styles.buttonContainer}>
-        //         <Button onPress={onPost} title="Post" disabled={!description} />
-        //     </View>
-        // </KeyboardAvoidingView>
     );
 };
 
